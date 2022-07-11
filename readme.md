@@ -1,0 +1,5 @@
+- To setup use `bundle install`
+- Use webserver.log under `vi seed/webserver.log` to provide input data
+- Run parser by `rake run` or `rake run[webserver.log]`
+- Run test by `rake test`
+- Check test coverage under `tmp/coverage/index.html` 

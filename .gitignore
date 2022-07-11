@@ -1,0 +1,4 @@
+.idea
+.rspec
+.byebug_history
+tmp/*
